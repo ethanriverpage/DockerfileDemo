@@ -1,10 +1,10 @@
 # FSA.DockerfileEC
 
 ### Docker list of images
-./screenshots/images.png
+![](./screenshots/images.png)
 
 ### CURL output of localhost:80
-./screenshots/curl.png
+![](./screenshots/curl.png)
 
 ### Browser output
-./screenshots/browser.png
+![](./screenshots/browser.png)
